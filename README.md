@@ -5,4 +5,4 @@
 - 🎨 Passionate researcher in Machine Learning, Mathematics.
 - 😊 Perseverance, passion, and compassion.
   
-![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helooeverybody&show_icons=true&theme=radical)
+
